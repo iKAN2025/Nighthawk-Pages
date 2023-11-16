@@ -2,7 +2,7 @@
 title: Github Pages
 courses: {'compsci': {'week': 1}}
 type: hacks
-layout: default
+layout: post
 ---
 ### PBL Unit 1 / Week 1
 Learning outcome. Building a personal and running GitHub Pages.

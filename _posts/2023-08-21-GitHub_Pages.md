@@ -1,14 +1,9 @@
 ---
-toc: true
-comments: true
-layout: post
-title: GitHub Pages
-description: Build your first Blog.  This will help us communicate results.
-type: plans
-courses: { csse: {week: 1}, csp: {week: 1, categories: [4.A]}, csa: {week: 0} }
-categories: [C1.4]
+title: Github Pages
+courses: {'compsci': {'week': 1}}
+type: hacks
+layout: default
 ---
-
 ### PBL Unit 1 / Week 1
 Learning outcome. Building a personal and running GitHub Pages.
 - Monday: Schedule Live Review - 4 minutes. Finish Tools setup. Attend Office Hours on HTML, CSS, JS and Student Blog.

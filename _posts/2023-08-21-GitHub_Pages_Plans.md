@@ -2,10 +2,10 @@
 toc: true
 comments: false
 layout: post
-title: More Detail Plan
-description: Example Plan!!! Analyze hacks and plan.
+title: Week 2 Plan
+
 type: plans
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 2} }
 ---
 
 ### PBL Unit 1 / Week 1

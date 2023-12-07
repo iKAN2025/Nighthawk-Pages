@@ -8,10 +8,12 @@ courses: {'compsci': {'week': 3}}
 
 
 
-# Summary: Exploring the Digital Divide
+# Review Ticket: Exploring the Digital Divide
 
 ## Overview:
-Diving into the digital divide highlighted disparities in internet access based on socioeconomic, geographic, and demographic factors. The visual elements, especially the code snippets, added an engaging dimension to the discussion.
+Diving into the digital divide highlighted disparities in internet access based on socioeconomic, geographic, and demographic factors. The visual elements, especially the code snippets, added an engaging dimension to the discussion. I really liked the visual elements of the code and how engaging it was.
+
+
 
 ## Key Learnings:
 - **Socioeconomic and Demographic Variation:** Factors like age, education, and occupation determine who has easier internet access, influencing different opportunities.

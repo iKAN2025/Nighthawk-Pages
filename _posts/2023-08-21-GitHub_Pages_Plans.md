@@ -3,7 +3,6 @@ toc: true
 comments: false
 layout: post
 title: Week 2 Plan
-
 type: plans
 courses: { compsci: {week: 2} }
 ---

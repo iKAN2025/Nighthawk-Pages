@@ -1,4 +1,4 @@
-title: Nighthawk-Pages
+title: Isabel 2.0
 description: "August 2023 to June 2024"
 owner_name: iKAN2025
 github_username: iKAN2025
@@ -18,3 +18,4 @@ minima:
 plugins:
 - jekyll-remote-theme
 future: true
+

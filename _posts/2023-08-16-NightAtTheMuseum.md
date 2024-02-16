@@ -2,7 +2,7 @@
 layout: base
 title: Night At The Musem Reflection.
 type: hacks
-courses: { compsci: {week: 11 } }
+courses: { compsci: {week: 6 } }
 ---
 N@TM Reflection • 2 min read
 Feb 16, 2024

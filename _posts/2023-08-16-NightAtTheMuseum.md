@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Night At The Musem Reflection.
+title: Night At The Museum Reflection.
 type: hacks
 courses: { compsci: {week: 6 } }
 ---

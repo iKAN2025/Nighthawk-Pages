@@ -27,11 +27,11 @@ Vivian Ni [Feature 1 Spot the difference]
 Emma Shen [Feature 3 Filter cybersecurity news by topic]
 Teaching people of all ages about cybersecurity is essential given the increasingly digital nature of our lives and the growing threats in the online space. I found their leader board interesting and I liked how they used multiple APIS to make their site interesting. I also liked how their site was related to CSP.  I was really impressed with their work. 
 
-![CSP Project ](CSP-JWT-Login-Project/images/computer.png)
+![CSP Project ](Nighthawk-Pages/images/computer.png)
 
 Something you saw outside of CompSci that you liked
 
-![Photo](CSP-JWT-Login-Project/images/photos.png)
+![Photo](Nighthawk-Pages/images/photos.png)
 
 I really liked the quality of the photos(especially the one with the building) I also saw some cool ceramics pieces as well, which were very creative.
 

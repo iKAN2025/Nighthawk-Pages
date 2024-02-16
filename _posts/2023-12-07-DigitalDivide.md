@@ -1,6 +1,6 @@
 ---
 comments: True
-layout: post
+layout: base
 title: Digital Divide Review Ticket
 type: hacks
 courses: {'compsci': {'week': 3}}

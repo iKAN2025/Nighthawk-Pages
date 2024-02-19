@@ -1,20 +1,20 @@
 ---
-toc: true
-comments: true
-layout: post
-title: Tools Setup
-description: Become one with your tools.  They could be more important than code, code, coding.
-type: plans
-courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
-categories: [C1.4]
+layout: base
+title: Week 1 Hacks
+description: Week 1 Hacks
+type: Week 1 Hacks
+courses: { compsci: {week: 2 } }
+
 ---
 
 ### PBL Unit 1 / Week 0
 Learning outcome.  Installing Tools and showing usage of VSCode.
-- Wednesday - Pick pair share partner, Pick crossover pair, Establish team of four.  Spend some time talking and getting to know each other, particularly with Computer Science experience and goals.  You should be matched with someone that has similar experience.
-- Thursday - Setup Tools on laptop and/or Cloud Computer.
-- Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
-
+Learning outcome. Installing Tools and showing usage of VSCode.
+Monday-Find groups in teams of 4 and think of ideas for project
+Tuesday-Tech Talk. Learn about SASS and layouts. Theme/frontend design for project.
+Wednesday-Finish frontend design on Canva and data model
+Thursday-Live Review
+Friday-Start working on frontend/backend!
 ### Hack Prepartation
 > Look for 'Hacks' to know what to do next.  Try to be done and learn your machine before Monday EOD.
 - A laptop, that you bring to class every day with ability to operate Development Tools on it or within the Cloud.

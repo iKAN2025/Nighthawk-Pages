@@ -2,7 +2,7 @@
 layout: base
 title: Week 5 Plans
 type: plans
-courses: { compsci: {week: 4 } }
+courses: { compsci: {week: 5 } }
 comments: true
 ---
 

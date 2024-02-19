@@ -2,7 +2,7 @@
 layout: base
 title: Night At The Museum Reflection.
 type: hacks
-courses: { compsci: {week: 6 } }
+courses: { compsci: {week: 12 } }
 comments: true
 ---
 N@TM Reflection • 2 min read

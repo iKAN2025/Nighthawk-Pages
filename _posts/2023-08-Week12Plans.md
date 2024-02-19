@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Week 11 Plans
+title: Week 12 Plans
 type: plans
-courses: { compsci: {week: 11} }
+courses: { compsci: {week: 12} }
 comments: true
 ---
 

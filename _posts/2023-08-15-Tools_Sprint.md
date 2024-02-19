@@ -3,7 +3,7 @@ layout: base
 title: Week 1 Hacks
 description: Week 1 Hacks
 type: Week 1 Hacks
-courses: { compsci: {week: 2 } }
+courses: { compsci: {week: 1 } }
 
 ---
 

@@ -8,6 +8,18 @@ html {
   min-height: 100%;
 }
 
+$light-pink: pink; 
+
+body {
+  color: var(--body-color);
+  background-color: $light-pink !important;
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+}
+
+
+
 body {
   margin: 0;
   padding: 0;

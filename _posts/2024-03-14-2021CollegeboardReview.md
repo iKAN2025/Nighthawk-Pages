@@ -1,3 +1,13 @@
+---
+layout: base
+title: 2021 MCQ Review Collegeboard
+type: tangibles
+courses: { compsci: {week: 12} }
+comments: true
+---
+
+
+
 # Reflection on CSP Collegeboard Exam Questions
 
 ![score.png](/Nighthawk-Pages/images/score2.png)

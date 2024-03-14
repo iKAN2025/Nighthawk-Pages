@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 2021 MCQ Review Collegeboard
+title: 2021 MCQ Review Collegeboard!
 type: tangibles
 courses: { compsci: {week: 12} }
 comments: true

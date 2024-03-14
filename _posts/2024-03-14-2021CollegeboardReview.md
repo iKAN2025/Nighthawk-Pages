@@ -14,3 +14,5 @@ Here are some questions I stumbled on:
 
 [43.png](/Nighthawk-Pages/images/7.png)
  Number 7 was suprisinlgy hard for me to keep track off and took me full four minutes to figure it out.
+
+ I remembered mod operation/binary this time !!!!

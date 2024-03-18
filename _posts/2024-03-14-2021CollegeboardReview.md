@@ -11,7 +11,7 @@ comments: true
 # Reflection on CSP Collegeboard Exam Questions
 
 ![score.png](/Nighthawk-Pages/images/score2.png)
-During my recent CSP Collegeboard Exam, I did a lot better than the previous exams. I felt like understanding the questions was  lot easier, although there was a bit of a time crunch towards the end. I have a lot more vocab knowledge/it takes less time for me to interpret collegeboard pseudocode. 
+During my recent CSP Collegeboard Exam, I did a lot better than the previous exams. I felt like understanding the questions was  lot easier, although there was a bit of a time crunch towards the end. I have a lot more vocab knowledge/it takes less time for me to interpret collegeboard pseudocode. However, I still had trouble on pseudocode. For me, the code questions took some thinking, and some of them took way longer then they should have. For example, I should have been able to logic through them easier, but I wasn't able through.  
 
 Here are some questions I stumbled on:
 
@@ -25,4 +25,4 @@ Here are some questions I stumbled on:
 ![43.png](/Nighthawk-Pages/images/7.png)
  Number 7 was suprisinlgy hard for me to keep track off and took me full four minutes to figure it out.
 
- I remembered mod operation/binary this time !!!!
+ I remembered mod operation/binary this time, which made remembered. 

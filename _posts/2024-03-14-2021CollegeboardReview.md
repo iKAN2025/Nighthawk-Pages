@@ -19,10 +19,10 @@ Here are some questions I stumbled on:
  For 55, I forgot my list operations-append adds elements to the end of list, but insert adds things at a specific index.
 
 
-[43.png](/Nighthawk-Pages/images/43.png)
+![43.png](/Nighthawk-Pages/images/43.png)
  For 43, I didn't know what keylogging was and had to look it up.
 
-[43.png](/Nighthawk-Pages/images/7.png)
+![43.png](/Nighthawk-Pages/images/7.png)
  Number 7 was suprisinlgy hard for me to keep track off and took me full four minutes to figure it out.
 
  I remembered mod operation/binary this time !!!!

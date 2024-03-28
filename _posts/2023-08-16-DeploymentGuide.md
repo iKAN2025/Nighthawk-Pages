@@ -103,3 +103,11 @@ I know certbot is for encryption (https, but here's more on what I learned!)
   5. Certbot periodically renews the SSL certificate to ensure uninterrupted secure access to the website.
   WE DID THIS In AWS when we requested the certificate. 
 - **Public and Private Key Encryption**:  I learned that Certbot uses public-key cryptography to secure communications over HTTPS. The SSL certificate contains a public key that encrypts data sent by the client's browser. The corresponding private key, held securely on the server, is used to decrypt the data. This ensures that data exchanged between the client and the server remains confidential and cannot be intercepted by unauthorized parties.
+
+Here's what I put in my issue for my test. I earned 3/3 points.
+Curl
+<img width="954" alt="Screenshot 2024-03-27 at 11 20 32 AM" src="https://github.com/iKAN2025/deploymentquiz/assets/142475176/9385863c-53b9-4023-b9c7-68e991b84cd7">
+Without Interference
+<img width="1429" alt="Screenshot 2024-03-27 at 11 36 59 AM" src="https://github.com/iKAN2025/deploymentquiz/assets/142475176/37f5dee2-61db-4091-94e4-13582095f979">
+Security
+<img width="1433" alt="Screenshot 2024-03-27 at 11 37 52 AM" src="https://github.com/iKAN2025/deploymentquiz/assets/142475176/425edcdc-9be7-4011-836d-27e4929f8254">

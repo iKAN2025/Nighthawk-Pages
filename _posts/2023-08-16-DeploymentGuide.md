@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 title: Deployment Guide 
 type: tangibles
 courses: { compsci: {week: 12} }

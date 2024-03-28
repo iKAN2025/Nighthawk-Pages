@@ -5,7 +5,7 @@ type: tangibles
 courses: { compsci: {week: 12} }
 comments: true
 ---
-** Deployment Quiz/Guide**
+## Deployment Practice Quiz/Guide
 
 First, I used Teacher's portfolio and used it as a template for deployment practice.
 I had an idea for a port number, but I logged in AWS EC2 terminal to find out if someone used it already.
@@ -59,11 +59,47 @@ W/interference
 Secure
 <img width="754" alt="Screenshot 2024-03-23 at 5 25 11 PM" src="https://github.com/iKAN2025/DeploymentPractice1/assets/142475176/17f02912-c609-404f-9e5f-88a1dcdbb8eb">
 
+## Deployment Quiz Reflection.
+
+Thankfully, the early deployment practice made Wednesday smooth sailing for me.  Even though getting the hang have our own instances deployed was difficult and unfamilar to me, I picked it up quickly. I learned how to use a VPN and access/configure  my own instance/ thanks to the Rift Guide. 
+
+<img width="734" alt="Screenshot 2024-03-28 at 11 59 55 AM" src="https://github.com/nighthawkcoders/teacher_portfolio/assets/142475176/80abe1d5-5cca-471f-a097-7fd2a0a3e09e">
+
+
+Here's a review, adding on to information using the RIFT guide and other resources:
+
+
+# Understanding Key Components of Web Application Deployment
+
+## Docker
+
+- **Purpose**: Docker is a platform for running/creating  applications inside containers. I used this to test my site before running this on AWS just to make sure everything was running smoothly. I learned that docker enables developers to package their applications and all dependencies into a standardized unit for easy deployment across different environments.
+- **Function with Relationship to Backend Application**: I know that  Docker allows you put your backend application along with its dependencies (pip3, etc) into a container. I learned that this ensures that the application runs consistently regardless of the environment it's deployed in. 
+
+## Nginx
+
+From using the Rift guide and other resources, I found that Nginx acts as a middleman of sorts, mapping Routes from Route 53 along with our port numbers.
+
+![Image](https://github.com/nighthawkcoders/teacher_portfolio/assets/142475176/3890032e-6527-400b-aeee-6fb39ece2b04)
 
 
 
+- **Purpose**: I learned that  Nginx is a high-performance web server and reverse proxy server. I found than  reverse proxy server sits between clients and backend servers, acting as an intermediary for requests. When a client sends a request to access a web application or service, the reverse proxy intercepts the request and forwards it to the appropriate backend server. It then receives the response from the backend server and forwards it back to the client.
+- **Function with Relationship to the Internet and Accessing  Application**: Nginx acts as a gateway between the internet and  application servers. It listens for incoming requests, forwards them to the backend servers where your application resides, and then returns the response to the client. 
 
+## Route 53
 
+- **Purpose**: I know thatRoute 53 is a domain name system (DNS) web service provided by Amazon Web Services (AWS).  I also know Its primary purpose is to translate human-readable domain names (e.g., example.com) into IP addresses that computers use to locate services and resources on the internet.
+- **Function and Role in Finding Backend Applications**: DNS (Domain Name System) is like the phone book of the internet, mapping domain names to IP addresses. Route 53 allows you to manage domain names and their associated DNS records, including A records (for IPv4 addresses), AAAA records (for IPv6 addresses), CNAME records (for aliases), etc. When a user enters a domain name in their browser, the DNS resolver queries Route 53 to find the corresponding IP address of the backend application server, allowing the user's device to connect to the correct backend application.
 
+## Certbot
 
-
+I know certbot is for encryption (https, but here's more on what I learned!)
+- **Workflow for Accessing a Website Secured with an SSL Certificate Managed by Certbot**: When a user accesses a website secured with an SSL certificate managed by Certbot:
+  1. The user's browser sends a request to the website over HTTPS.
+  2. The web server (e.g., Nginx) receives the request and presents the SSL certificate to the browser.
+  3. The browser verifies the certificate's authenticity and checks if it's issued by a trusted Certificate Authority (CA).
+  4. If the certificate is valid and trusted, the browser establishes a secure connection with the server and proceeds to send and receive encrypted data.
+  5. Certbot periodically renews the SSL certificate to ensure uninterrupted secure access to the website.
+  WE DID THIS In AWS when we requested the certificate. 
+- **Public and Private Key Encryption**:  I learned that Certbot uses public-key cryptography to secure communications over HTTPS. The SSL certificate contains a public key that encrypts data sent by the client's browser. The corresponding private key, held securely on the server, is used to decrypt the data. This ensures that data exchanged between the client and the server remains confidential and cannot be intercepted by unauthorized parties.

@@ -39,8 +39,6 @@ UPDATE
 ![Alt text](/Nighthawk-Pages/images/p.png)
 
 
-
-
 Discuss algorithmic condition used to direct request to appropriate Python method based on request method.
 
 

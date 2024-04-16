@@ -17,33 +17,24 @@ Blog Python Model code and SQLite Database.
 
 ![Alt text](/Nighthawk-Pages/images/init.png)
 
-
 # APIs and JSON
-
 
 - In VSCode, show Python API code definition for request and response using GET, POST, UPDATE methods.
 
 
 GET
-
 ![Alt text](/Nighthawk-Pages/images/g.png)
 
 
 POST
-
 ![Alt text](/Nighthawk-Pages/images/pg.png)
-
 
 
 UPDATE
 ![Alt text](/Nighthawk-Pages/images/p.png)
 
-
 Discuss algorithmic condition used to direct request to appropriate Python method based on request method.
-
-
-In this Flask main.py file, the @app.route() decorator defines the URL route ("/") and the allowed request methods (methods=['GET', 'POST', 'PUT']). Inside the view function, handle_request(), the request.method attribute is used to determine the type of request and execute the corresponding logic.
-
+The classes correspond to certain resource, which all have methods that correspond to CRUD operations (POST, GET, PUT, DELETE). Each class a certain link that cooresponsds to the link that the data is fetched from(either data is fetched or appended or created based on the method)
 
 
 In VSCode, show algorithmic conditions used to validate data on a POST condition.

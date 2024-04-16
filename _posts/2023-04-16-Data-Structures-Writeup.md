@@ -19,19 +19,42 @@ Blog Python Model code and SQLite Database.
 
 
 # APIs and JSON
-Blog Python API code and use of Postman to request and respond with JSON. In VSCode, show Python API code definition for request and response using GET, POST, UPDATE methods. Discuss algorithmic condition used to direct request to appropriate Python method based on request method.
+
+
+- In VSCode, show Python API code definition for request and response using GET, POST, UPDATE methods.
+
+
+GET
+
+![Alt text](/Nighthawk-Pages/images/g.png)
+
+
+POST
+
+![Alt text](/Nighthawk-Pages/images/pg.png)
+
+
+
+UPDATE
+![Alt text](/Nighthawk-Pages/images/p.png)
+
+
+
+
+Discuss algorithmic condition used to direct request to appropriate Python method based on request method.
+
+
+In this Flask main.py file, the @app.route() decorator defines the URL route ("/") and the allowed request methods (methods=['GET', 'POST', 'PUT']). Inside the view function, handle_request(), the request.method attribute is used to determine the type of request and execute the corresponding logic.
+
 
 
 In VSCode, show algorithmic conditions used to validate data on a POST condition.
+![Alt text](/Nighthawk-Pages/images/c.png)
 
 
-In Postman, show URL request and Body requirements for GET, POST, and UPDATE methods.
-
-
-In Postman, show the JSON response data for 200 success conditions on GET, POST, and UPDATE methods.
+In Postman, show URL request and Body requirements for GET, POST, and UPDATE methods. In Postman, show the JSON response data for 200 success conditions on GET, POST, and UPDATE methods.
 
 - GET (token required, admin)
-
 ![Alt text](/Nighthawk-Pages/images/getall.png)
 
 - POST

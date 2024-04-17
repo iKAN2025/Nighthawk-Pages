@@ -28,8 +28,8 @@ From Create Endpoint (Post)
 ![Alt text](/Nighthawk-Pages/images/cook.png)
 
 
-From Login Endpoint (Authenticate)
-![Alt text](/Nighthawk-Pages/images/rightlogin.png)
+From Get (Getting Exercise Data For Graph)
+![Alt text](/Nighthawk-Pages/images/ee.png)
 
 
 # Frontend
@@ -139,7 +139,7 @@ In Postman, show the JSON response for error for 400 when missing body on a POST
 
 In Postman, show the JSON response for error for 404 when providing an unknown user ID to a UPDATE request.
 
-![Alt text](/Nighthawk-Pages/images/null.png)
+![Alt text](/Nighthawk-Pages/images/pu.png)
 
 
 

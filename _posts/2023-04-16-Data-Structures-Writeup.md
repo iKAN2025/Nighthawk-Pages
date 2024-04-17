@@ -17,6 +17,24 @@ Blog Python Model code and SQLite Database.
 
 ![Alt text](/Nighthawk-Pages/images/init.png)
 
+# Lists  and Dictionaries
+
+Lists 
+Blog Python API code and use of List and Dictionaries.
+In VSCode using Debugger, show a list as extracted from database as Python objects. Show two distinct example examples of dictionaries, show Keys/Values using debugger.
+
+From Create Endpoint (Post)
+
+![Alt text](/Nighthawk-Pages/images/rightcreate.png)
+
+
+From Login Endpoint (Authenticate)
+
+![Alt text](/Nighthawk-Pages/images/rightlogin.png)
+
+
+
+
 # APIs and JSON
 
 - In VSCode, show Python API code definition for request and response using GET, POST, UPDATE methods.

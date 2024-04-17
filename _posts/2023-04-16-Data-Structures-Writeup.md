@@ -41,7 +41,7 @@ Blog JavaScript API fetch code and formatting code to display JSON.
 - GET/UPDATE
 
 
-![Alt text](/Nighthawk-Pages/images/nope.png)
+![Alt text](/Nighthawk-Pages/images/life1.png)
 
 
 - In the Chrome browser, show a demo (GET) of obtaining an Array of JSON objects that are formatted into the browser's screen.

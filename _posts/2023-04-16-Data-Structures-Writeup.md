@@ -25,7 +25,7 @@ In VSCode using Debugger, show a list as extracted from database as Python objec
 
 From Create Endpoint (Post)
 
-![Alt text](/Nighthawk-Pages/images/rightcreate.png)
+![Alt text](/Nighthawk-Pages/images/d.png)
 
 
 From Login Endpoint (Authenticate)

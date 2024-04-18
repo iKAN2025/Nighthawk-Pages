@@ -81,16 +81,16 @@ I USED GRAPHS to format the data.
 
 - Failure
 
-
-
+![Alt text](/Nighthawk-Pages/images/8.png)
+![Alt text](/Nighthawk-Pages/images/9.png)
 
 
 - In JavaScript code, show and describe code that handles success. Describe how code shows success to the user in the Chrome Browser screen.  In JavaScript code, show and describe code that handles failure. Describe how the code shows failure to the user in the Chrome Browser screen.
 
 
-When post is successful, the user is redirected the login page. When the login is unsunccesful, the corresponding error message is thrown in the console, and the user is alerted. 
+When post is successful, the user is redirected the login page. When the register is unsunccesful, there is an eeor aletrted the console.
 
-![Alt text](/Nighthawk-Pages/images/l.png)
+![Alt text](/Nighthawk-Pages/images/fail.png)
 
 
 

@@ -15,7 +15,7 @@ Blog Python Model code and SQLite Database.
 
 - From VSCode model, show your unique code that was created to initialize table and create test data.
 
-fix int
+[Alt text](/Nighthawk-Pages/images/init1.png)
 
 # Lists  and Dictionaries
 

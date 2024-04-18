@@ -15,7 +15,7 @@ Blog Python Model code and SQLite Database.
 
 - From VSCode model, show your unique code that was created to initialize table and create test data.
 
-![Alt text](/Nighthawk-Pages/images/init.png)
+fix int
 
 # Lists  and Dictionaries
 
@@ -41,22 +41,21 @@ Blog JavaScript API fetch code and formatting code to display JSON.
 - GET/UPDATE
 
 
-![Alt text](/Nighthawk-Pages/images/life1.png)
+![Alt text](/Nighthawk-Pages/images/z.png)
 
 
-- In the Chrome browser, show a demo (GET) of obtaining an Array of JSON objects that are formatted into the browser's screen.
+- In the Chrome browser, show a demo (POST) of obtaining an Array of JSON objects that are formatted into the browser's screen.
 
 
-![Alt text](/Nighthawk-Pages/images/zero.png)
+![Alt text](/Nighthawk-Pages/images/z.png)
+
+
+
 
 
 - In JavaScript code, describe fetch and method that obtained the Array of JSON objects.
 
-I fetched the data from a specific user and had logged the  response in the console from the get first. Then I updated the data and and logged the respons AGAINe, which was the new user data!
-
-
 ![Alt text](/Nighthawk-Pages/images/1.png)
-![Alt text](/Nighthawk-Pages/images/2.png)
 
 
 - In JavaScript code, shows code that performs iteration and formatting of data into HTML.
@@ -71,24 +70,23 @@ I USED GRAPHS to format the data.
 - In the Chrome browser, show a demo (POST or UPDATE) gathering and sending input and receiving a response that show an update. Repeat this demo showing both success and failure.
 
 - Success
+![Alt text](/Nighthawk-Pages/images/r0.png)
+![Alt text](/Nighthawk-Pages/images/r.png)
+![Alt text](/Nighthawk-Pages/images/r1.png)
 
-![Alt text](/Nighthawk-Pages/images/log.png)
 
-![Alt text](/Nighthawk-Pages/images/t.png)
 
 
 - Failure
 
-![Alt text](/Nighthawk-Pages/images/log.png)
 
-![Alt text](/Nighthawk-Pages/images/f.png)
 
 
 
 - In JavaScript code, show and describe code that handles success. Describe how code shows success to the user in the Chrome Browser screen.  In JavaScript code, show and describe code that handles failure. Describe how the code shows failure to the user in the Chrome Browser screen.
 
 
-When login is successful, the user is redirected the update page. When the login is unsunccesful, the corresponding error message is thrown in the console, and and error  red message appears below the form.
+When post is successful, the user is redirected the login page. When the login is unsunccesful, the corresponding error message is thrown in the console, and the user is alerted. 
 
 ![Alt text](/Nighthawk-Pages/images/l.png)
 

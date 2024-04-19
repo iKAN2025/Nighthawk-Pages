@@ -58,8 +58,9 @@ Blog JavaScript API fetch code and formatting code to display JSON.
 
 
 - In JavaScript code, describe fetch and method that obtained the Array of JSON objects.
+I fetched the old data/appended it to the new data. Ii made sure no data was static and all from user input. 
 
-![Alt text](/Nighthawk-Pages/images/1.png)
+![Alt text](/Nighthawk-Pages/images/good.png)
 
 
 - In JavaScript code, shows code that performs iteration and formatting of data into HTML.

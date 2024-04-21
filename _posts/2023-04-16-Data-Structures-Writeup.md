@@ -38,6 +38,8 @@ In VSCode using Debugger, I  show a list as extracted from database as Python ob
 From Create Endpoint (Post)
 
 ![Alt text](/Nighthawk-Pages/images/cook.png)
+![Alt text](/Nighthawk-Pages/images/cook2.png)
+
 
 
 The keys and values from the debugger are
@@ -53,11 +55,13 @@ The keys and values from the debugger are
 
 From Get (Getting Exercise Data For Graph)
 ![Alt text](/Nighthawk-Pages/images/photo.png)
+![Alt text](/Nighthawk-Pages/images/get.png)
 
 The keys and values from the debugger are: 
 "duration": The value is "5", which represents the duration of the exercise session in minutes.
 "exerciseDate": The value is "2024-04-05", which represents the date when the exercise session took place.
 "exerciseType": The value is "Running", indicating the type of exercise performed during the session. 
+
 
 
 # Frontend

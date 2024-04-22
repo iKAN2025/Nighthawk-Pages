@@ -73,7 +73,7 @@ The keys and values from the debugger are:
 - GET/UPDATE
 
 Here are my get/update responses from getting exercise data from a specific user and appending it to the new data, essentially using get/update. As you can see, this data is formatted into graphs the user can see so they can track their individual  data. 
-![Alt text](/Nighthawk-Pages/images/z.png)
+![Alt text](/Nighthawk-Pages/images/life123.png)
 
 
 - In the Chrome browser, I show a demo (POST) of obtaining an Array of JSON objects that are formatted into the browser's screen. Once I created a user, the JSON is formatted into a table of users, which are also in the database. 
@@ -111,7 +111,7 @@ A POST is used to create a user. If successful, the user is redirected to the lo
 - Success
 
 
-Update page before new user is create
+Update page before new user is created
 
 ![Alt text](/Nighthawk-Pages/images/beforepost.png)
  User is registered, response data is shown  in JSON (user.read() is returned, diary, sleep, and exercise are empty because those fields haven't been entered yet)

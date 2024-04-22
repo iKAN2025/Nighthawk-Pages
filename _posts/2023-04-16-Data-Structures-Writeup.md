@@ -109,11 +109,24 @@ A POST is used to create a user. If successful, the user is redirected to the lo
 
 
 - Success
-![Alt text](/Nighthawk-Pages/images/r0.png)
 
-![Alt text](/Nighthawk-Pages/images/r.png)
 
-![Alt text](/Nighthawk-Pages/images/r1.png)
+Update page before new user is create
+
+![Alt text](/Nighthawk-Pages/images/beforepost.png)
+ User is registered, response data is shown  in JSON (user.read() is returned, diary, sleep, and exercise are empty because those fields haven't been entered yet)
+
+![Alt text](/Nighthawk-Pages/images/registration.png)
+
+ User is registered, response data is shown  in JSON (user.read() is returned, diary, sleep, and exercise are empty because those fields haven't been entered yet)
+
+![Alt text](/Nighthawk-Pages/images/afterpost.png)
+
+User is redirected to login page after user logging in is successful. 
+
+![Alt text](/Nighthawk-Pages/images/redirect.png)
+
+ User is registered, response data is shown  in JSON  and formatted into the table.
 
 
 

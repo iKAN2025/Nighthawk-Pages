@@ -222,3 +222,46 @@ In Postman, show the JSON response for error for 404 when providing an unknown u
 
 
 
+# Collegeboard FRQS (Personalized Refrence is SleepGraph code)
+
+1. What problem do exercise/sleep trackers address?
+
+Exercise and sleep trackers help users keep track of their exercise and sleep tracking progress in a increasingly  digital world where it is easily distracted.
+
+2. Describe one piece of documentation that would be appropriate to include with or in your exercise tracker. Describe the intended purpose of this documentation by identifying who would use it and what they would do with it.
+
+A piece of documentation that is  appropriate that  include with or in your exercise tracker is an about page for users to access to understand the purpose of the exercise and sleep tracker (how it works, and how users can use it to track their progress)
+
+3. Consider the first iteration statement included in the Procedure section of your Personalized Project Reference. Describe the condition(s) that will cause the body of the iteration statement to execute at least once.
+
+The sleep data has to exits. In the nest JSON, there  must be one array of sleep data in order the for the body of the iteration statement to execute at least once.
+
+4. Consider the procedure calculateTotalSleepDuration.  Write a call to your procedure with specific argument(s) that you could use for testing this procedure. Describe the program functionality that is related to this call.
+``` javascript ```
+
+const sleepData = [
+    { sleepDate: '2024-04-20', sleepHours: '8', quality: 'Excellent' }]
+const totalDurationByDay = calculateTotalSleepDuration(sleepData)
+
+``` ```
+
+5.  Consider the list identified in the List section of your Personalized Project Reference. Explain how you would need to adjust this part of your program if the list was not included in your code.
+
+If the nested JSON sleep array was not included in my code, I would need to have a seperate columns in the database for sleep duration, sleep quality, and sleep date. I would fetch all the values from the database and iterate over the response.json from the backend.
+
+6. Consider the first conditional statement included in the Procedure section of your Personalized Project Reference. Write an equivalent Boolean expression for this conditional statement?
+
+``` python  ```
+
+if (totalDurationByDay[date] !== undefined && totalDurationByDay[date] !== null)
+
+``` python  ```
+
+7. Consider the procedure calculatetotalduration identified in part (i) of the Procedure section of your Personalized Project Reference. Identify a strategy, other than using test cases, that you can use to test the correctness of your procedure. Describe how you would use this strategy.
+
+I could execute the code by provide sample sleep data to the procedure and observe the output.
+
+8. 
+
+
+

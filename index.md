@@ -4,8 +4,8 @@ title: Home
 ---
 
 
+<img src="https://github.com/iKAN2025.png" class="profile-pic mt-4" alt="Profile Picture" style="display: block; margin: 0 auto;">
 
-<img src="https://github.com/iKAN2025.png" class="profile-pic mt-4" alt="Profile Picture">
 
 ## About Me
 Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in computer science.  I am passionate about full stack development and machine learning.  I love solving real-world problems through technology and enjoy collaborating with teams to build innovative solutions.

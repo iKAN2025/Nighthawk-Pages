@@ -3,6 +3,10 @@ layout: navbar
 title: Home
 ---
 
+
+
+
+
 # Welcome to My Tech Blog
 <img src="https://github.com/username.png" class="profile-pic mt-4" alt="Profile Picture">
 

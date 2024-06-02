@@ -3,7 +3,7 @@ layout: navbar
 title: Home
 ---
 
-{% include navbar.html %}
+
 
 <img src="https://github.com/iKAN2025.png" class="profile-pic mt-4" alt="Profile Picture">
 

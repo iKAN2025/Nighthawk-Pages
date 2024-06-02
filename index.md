@@ -2,10 +2,7 @@
 layout: navbar
 title: Home
 ---
-
-
-
-# Welcome to My Tech Blog
+    
 <img src="https://github.com/iKAN2025.png" class="profile-pic mt-4" alt="Profile Picture">
 
 ## About Me

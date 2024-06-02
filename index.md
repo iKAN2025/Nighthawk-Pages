@@ -46,7 +46,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         <img class="card-img-top" src="{{ site.baseurl }}/images/musical.png" alt="Instrument Tracker">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/iKAN2025/">Instrument Tracker</a></h5>
-             <p><strong>Worked On:</strong> I worked on  creating users/organizing data into gra[hs</p>
+             <p><strong>Worked On:</strong> I worked on  creating users/organizing data into graphs</p>
             <p class="card-text">Tracks Instruments and Sorts Into Graphs</p>
             <p><strong>Technologies:</strong> Python, Flask.</p>
             <p><strong>Outcome:</strong> Enhanced user experience and engagement </p>

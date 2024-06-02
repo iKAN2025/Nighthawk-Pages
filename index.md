@@ -20,7 +20,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
 ## Featured Projects
 <div class="card-deck mt-4">
     <div class="card">
-        <img class="card-img-top" src="path/to/ai-project-image.jpg" alt="Wellness Tracker">
+        <img class="card-img-top" src="" alt="Wellness Tracker">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/jplip/self-care-front">Wellness Tracker</a></h5>
             <p class="card-text">A Full Stack Wellness Tracker</p>
@@ -30,7 +30,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         </div>
     </div>
     <div class="card">
-        <img class="card-img-top" src="path/to/collaboration-app-image.jpg" alt="Collaboration App">
+        <img class="card-img-top" src="" alt="Collaboration App">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/jplip/frontTri2">Fitness Tracker</a></h5>
             <p class="card-text">A full-stack web application for fitness</p>
@@ -39,7 +39,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         </div>
     </div>
     <div class="card">
-        <img class="card-img-top" src="path/to/data-visualization-image.jpg" alt="Data Visualization">
+        <img class="card-img-top" src="" alt="Instrument Tracker">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/iKAN2025/">Data Visualization Dashboard</a></h5>
             <p class="card-text">A data visualization tool that helps in making data-driven decisions.</p>
@@ -48,3 +48,5 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         </div>
     </div>
 </div>
+
+Demo:

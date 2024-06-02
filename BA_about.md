@@ -3,8 +3,6 @@ layout: page
 title: About Me
 ---
 
-
-{% include navbar.html %}
 # Bella's Page
 
 

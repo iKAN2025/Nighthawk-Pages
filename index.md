@@ -17,7 +17,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
 ## Featured Projects
 <div class="card-deck mt-4">
     <div class="card">
-        <img class="card-img-top" src="https://ikan2025.github.io/Nighthawk-Pages/images/wellness.png" alt="Wellness Tracker">
+        <img class="card-img-top" src="{{ site.baseurl }}/images/wellness.png" alt="Wellness Tracker">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/jplip/self-care-front">Wellness Tracker</a></h5>
             <p class="card-text">A Full Stack Wellness Tracker</p>
@@ -27,7 +27,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         </div>
     </div>
     <div class="card">
-        <img class="card-img-top" src="https://ikan2025.github.io/Nighthawk-Pages/images/fitness.png" alt="Fitness ApP App">
+        <img class="card-img-top" src="{{ site.baseurl }}/images/fitness.png" alt="Fitness ApP App">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/jplip/frontTri2">Fitness Tracker</a></h5>
             <p class="card-text">A full-stack web application for fitness</p>
@@ -37,7 +37,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         </div>
     </div>
     <div class="card">
-        <img class="card-img-top" src="https://ikan2025.github.io/Nighthawk-Pages/images/musical.png" alt="Instrument Tracker">
+        <img class="card-img-top" src="{{ site.baseurl }}/images/musical.png" alt="Instrument Tracker">
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/iKAN2025/">Instrument Tracker</a></h5>
             <p class="card-text"<>Tracks Instruments and Sorts Into Graphs</p>

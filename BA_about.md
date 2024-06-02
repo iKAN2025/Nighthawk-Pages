@@ -5,6 +5,7 @@ title: About Me
 
 # Bella's Page
 
+{% include navbar.html %}
 
 <span style="background-color: #FFFF00">Go to my [Github account](https://github.com/iKAN2025) !!
 </span>

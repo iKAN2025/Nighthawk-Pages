@@ -2,7 +2,7 @@
 layout: navbar
 title: Home
 ---
-    
+
 <img src="https://github.com/iKAN2025.png" class="profile-pic mt-4" alt="Profile Picture">
 
 ## About Me
@@ -31,6 +31,7 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
         <div class="card-body">
             <h5 class="card-title"><a href="https://github.com/jplip/frontTri2">Fitness Tracker</a></h5>
             <p class="card-text">A full-stack web application for fitness</p>
+             <p><strong>Worked On:</strong> I worked on exercise, sleep, login, register, profile features. CRUD Operations, Frontend Api Layer</p>
             <p><strong>Technologies:</strong> Python, Javascript, JWT, SQLAlchemy  Flask. </p>
             <p><strong>Outcome:</strong> Enhanced user experience and engagement.</p>
         </div>
@@ -38,8 +39,8 @@ Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in
     <div class="card">
         <img class="card-img-top" src="" alt="Instrument Tracker">
         <div class="card-body">
-            <h5 class="card-title"><a href="https://github.com/iKAN2025/">Data Visualization Dashboard</a></h5>
-            <p class="card-text">A data visualization tool that helps in making data-driven decisions.</p>
+            <h5 class="card-title"><a href="https://github.com/iKAN2025/">Instrument Tracker</a></h5>
+            <p class="card-text"<>Tracks Instruments and Sorts Into Graphs</p>
             <p><strong>Technologies:</strong> Python, Flask.</p>
             <p><strong>Outcome:</strong> Enabled better decision-making, increasing sales by 15%.</p>
         </div>

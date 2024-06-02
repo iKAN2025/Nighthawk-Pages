@@ -1,5 +1,5 @@
 ---
-layout: navbar
+layout: base
 title: About Me
 ---
 

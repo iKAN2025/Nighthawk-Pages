@@ -1,5 +1,4 @@
 ---
-layout: navbar
 title: Home
 ---
 

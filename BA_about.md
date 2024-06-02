@@ -3,9 +3,11 @@ layout: page
 title: About Me
 ---
 
-# Bella's Page
 
 {% include navbar.html %}
+# Bella's Page
+
+
 
 <span style="background-color: #FFFF00">Go to my [Github account](https://github.com/iKAN2025) !!
 </span>

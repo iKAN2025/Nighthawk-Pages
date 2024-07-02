@@ -12,7 +12,7 @@ title: Home
 </div>
 
 
-Hi, I'm Isabel Marilla,  a student at Del Norte High School who is interested in computer science.  I am passionate about full stack development and machine learning.  I love solving real-world problems through technology and enjoy collaborating with teams to build innovative solutions.
+Hi, I'm iKAN20225,   a student at Del Norte High School who is interested in computer science.  I am passionate about full stack development and machine learning.  I love solving real-world problems through technology and enjoy collaborating with teams to build innovative solutions.
 
 ## Key Interests
 - **Technology and Innovation**: Leveraging technology to solve complex problems.

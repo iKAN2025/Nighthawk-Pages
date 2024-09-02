@@ -21,7 +21,7 @@ Hi, I'm iKAN20225,   a student at Del Norte High School who is interested in com
 - **Team Collaboration**: Working effectively within teams to achieve common goals.
 
 ## Featured Projects
-<div class="card-deck mt-4">
+<div>
     <div class="card">
         <img class="card-img-top" src="{{ site.baseurl }}/images/wellness.png" alt="Wellness Tracker">
         <div class="card-body">
